@@ -1,0 +1,8 @@
+kubernetes.default
+kubernetes.default.svc
+kubernetes.default.svc.cluster
+kubernetes.default.svc.cluster.local
+127.0.0.1
+192.168.0.1
+10.100.0.2
+10.100.0.1
