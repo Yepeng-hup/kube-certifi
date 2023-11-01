@@ -1,4 +1,4 @@
-# kube-certifi
+# kube-certifi 自定义签发k8s证书
 
 ### 脚本使用
 
